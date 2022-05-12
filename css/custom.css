@@ -1,0 +1,39 @@
+/* add your custom css here */
+/* do NOT edit the styles.css file */
+h2 {
+    display:grid;
+    text-align:center;
+    justify-content: center;
+}
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: none;
+}
+a.btn.btn-lg.btn-light {
+    background-color:#d63384;
+}
+h2 {
+    color:#d63384;
+}
+nav {
+    background-color: none;
+    background-image:url(images/peachandpinkbackgroundresized.png);
+}
+header {
+    padding-top:6rem;
+    padding-bottom:3rem;
+}
+* {
+    box-sizing:border-box;
+}
+a.badge.badge-primary {
+    color:#398ebe;
+    font-size: 18px;
+}
+.bg-dark {
+    color: #fd7e14;
+}
+.div.p-3.mb-2.bg-dark.text-white {
+    color:#fd7e14;
+    background-color:rgba(14, 14, 14, .5)
+}
